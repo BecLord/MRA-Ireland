@@ -1,6 +1,6 @@
 # MRA Ireland
 
-A static website redesign for the Motorcycle Racing Association of Ireland (MRA), created as part of a Client-Side Web Development module.
+A static website redesign for the Motorcycle Racing Association of Ireland (MRA) a project for my Client-Side Web Development module from Year 3, Semester 1.
 
 The site provides an introduction to MRA, its off-road motorcycle disciplines, events, championships, competitors, clubs and news.
 
@@ -19,18 +19,3 @@ The site provides an introduction to MRA, its off-road motorcycle disciplines, e
 - HTML5
 - CSS3
 - Static images
-
-## Getting started
-
-No build tools or dependencies are required.
-
-1. Clone or download the repository.
-2. Open `home.html` in a web browser.
-
-For local development, you can also serve the repository with a static server:
-
-```powershell
-python -m http.server 8000
-```
-
-Then visit `http://localhost:8000/home.html`.
